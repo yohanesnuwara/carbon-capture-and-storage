@@ -8,7 +8,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # load EOS database in a form of npy file
-load_eos = np.load('https://github.com/yohanesnuwara/CO2Inject/blob/master/lib/eostable.npy')
+load_eos = np.load('/content/CO2Inject/lib/eostable.npy')
 load_eos = pd.DataFrame(load_eos, columns=['Temperature (deg c)', 'Pressure (Pa)', 'Density (g/cc)',
                                            'Sound speed (m/s)'])
 
