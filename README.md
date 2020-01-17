@@ -4,4 +4,4 @@ This is my BSc thesis which I defended in 9 August 2019. The repo includes my BS
 
 Notebooks are in the *main* folder:
 * 01_reservoir_simulation.ipynb: displays the result of reservoir simulation done in Petrel Eclipse, compute the reservoir pressure increase due to CO2 injection
-* 02_rock_physics_modelling: computes Vp, Vs, and density change due to CO2 saturation and increasing pressure
+* 02_rock_physics_modelling.ipynb: computes Vp, Vs, and density change due to CO2 saturation and increasing pressure
