@@ -8,7 +8,14 @@ This is my BSc thesis which I defended in 9 August 2019. The repo includes my BS
 
 ![ccs_workflow](https://user-images.githubusercontent.com/51282928/72629166-58688d00-3982-11ea-98a0-3c5004b3c796.png)
 
-This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO<sub>2</sub> injection in carbonate rock. The result of reservoir simulation is **CO<sub>2</sub> saturation** and **pressure** changes. These information are used in **rock physics modelling** to (1) characterize **pore structure** of the carbonate rock based on Xu and Payne (2009) and (2) compute seismic response (**Vp**, **Vs**, and **density**) of carbonate rock as **CO<sub>2</sub> saturation** and **pressure** increases, based on Kuster and Toksöz (1974) using the previous result of **pore structure**. After seismic response is computed, 
+This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO<sub>2</sub> injection in carbonate rock. The result of reservoir simulation is **CO<sub>2</sub> saturation** and **pressure** changes. These information are used in **rock physics modelling** to (1) characterize **pore structure** of the carbonate rock based on Xu and Payne (2009) and (2) compute seismic response (**Vp**, **Vs**, and **density**) of carbonate rock as **CO<sub>2</sub> saturation** and **pressure** increases, based on Kuster and Toksöz (1974) using the previous result of **pore structure**. After seismic response is computed, synthetic seismic record is simulated (**seismic modelling**). However, this part is worked separately using NORSAR software, not in Python, so that is not covered in this repo. Last part is geomechanical modelling, that simulates **Mohr-Coulomb stress path** due to change in pressure. 
+
+Case study is used from Indonesian CCS pilot project in Gundih. Several key points of this CCS are:
+* Injection is done in carbonate reservoir
+* Depth 3 km
+* High temperature (158<sup>o</sup>C), high pressure (273 bar) 
+* 10 years of injection
+* Rate of injection 800 ton per day
 
 ## Content of this repository
 
