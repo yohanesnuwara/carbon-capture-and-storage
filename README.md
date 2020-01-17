@@ -1,6 +1,6 @@
 # Reservoir, Rock Physics, Time-lapse Seismic, & Geomechanical Modelling of Carbon Capture & Storage
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![ccs_pic](https://user-images.githubusercontent.com/51282928/72623302-767cc000-3977-11ea-963b-060339c3eeba.jpg)
 
