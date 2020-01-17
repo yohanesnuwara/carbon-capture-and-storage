@@ -1,6 +1,6 @@
 # Reservoir, Rock Physics, Time-lapse Seismic, & Geomechanical Modelling of Carbon Capture & Storage
 
-[![license](https://img.shields.io/github/license//yohanesnuwara/bsc-thesis-carbon-capture-storage.svg?style=flat-square)](https://github.com/yohanesnuwara/bsc-thesis-carbon-capture-storage/blob/master/LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ![ccs_pic](https://user-images.githubusercontent.com/51282928/72623302-767cc000-3977-11ea-963b-060339c3eeba.jpg)
 
