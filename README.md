@@ -2,7 +2,7 @@
 
 ![ccs_pic](https://user-images.githubusercontent.com/51282928/72623302-767cc000-3977-11ea-963b-060339c3eeba.jpg)
 
-This is my BSc thesis which I defended in 9 August 2019. The repo includes my BSc works with few additions post-BSc that I made to enhance my methodology. 
+This is my BSc thesis which I defended in 9 August 2019. The repo includes my BSc works with few additions post-BSc that I made to enhance my methodology. You are recommended to read first my presented papers to understand what is it about, in the link given at the end of this material. 
 
 ## Introduction
 
