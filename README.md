@@ -4,15 +4,15 @@ This is my BSc thesis which I defended in 9 August 2019. The repo includes my BS
 
 ## Introduction
 
-This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO<sub>2</sub> injection.
+This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO<sub>2</sub> injection in carbonate rock. The result of reservoir simulation is **CO<sub>2</sub> saturation** and **pressure** changes. These information are used in **rock physics modelling** to (1) characterize **pore structure** of the carbonate rock based on Xu and Payne (2009) and (2) compute seismic response (**Vp**, **Vs**, and **density**) of carbonate rock as **CO<sub>2</sub> saturation** and **pressure** increases, based on Kuster and Toksöz (1974) using the previous result of **pore structure**. After seismic response is computed, 
 
 ## About this repository
 
 Notebooks are in the *main* folder:
-* 01_reservoir_simulation.ipynb: displays the result of reservoir simulation done in Petrel Eclipse, compute the reservoir pressure increase due to CO2 injection
-* 02_rock_physics_modelling.ipynb: computes Vp, Vs, and density change due to CO2 saturation and increasing pressure
-* 03_xu_payne.ipynb: Xu-Payne (2009) carbonate pore characterization 
-* geomechanics.m: geomechanical modelling, built in Matlab language. Will be re-written in Python language when having leisure time :)
+* `01_reservoir_simulation.ipynb`: displays the result of reservoir simulation done in Petrel Eclipse, compute the reservoir pressure increase due to CO2 injection
+* `02_rock_physics_modelling.ipynb`: computes Vp, Vs, and density change due to CO2 saturation and increasing pressure
+* `03_xu_payne.ipynb`: Xu-Payne (2009) carbonate pore characterization 
+* `geomechanics.m`: geomechanical modelling, built in Matlab language. Will be re-written in Python language when having leisure time :)
 
 Folder *lib* includes all functions used in each of the notebooks.
 
