@@ -2,7 +2,7 @@
 
 ![ccs_pic](https://user-images.githubusercontent.com/51282928/72623302-767cc000-3977-11ea-963b-060339c3eeba.jpg)
 
-This is my BSc thesis which I defended in 9 August 2019. The repo includes my BSc works with few additions post-BSc that I made to enhance my methodology. You are recommended to read first my presented papers to understand what is it about, in the link given at the end of this material. 
+This is my BSc thesis which I defended in 9 August 2019. The repo includes my BSc works with few additions post-BSc that I made to enhance my methodology. You are recommended to **read first my presented papers** to understand what is it about, in the link given at the end of this material. 
 
 ## Introduction
 
@@ -20,6 +20,6 @@ Folder *lib* includes all functions used in each of the notebooks.
 
 Folder *data* includes the input data.
 
-My BSc research had been published, see the extended abstracts in my ResearchGate here:
+My BSc research had been presented, see the extended abstracts in my ResearchGate here:
 * [Paper 1: Time-lapse Seismic Modelling](https://www.researchgate.net/publication/338644464_Time-lapse_Seismic_Modelling_as_Tool_for_Evaluation_of_Monitoring_Feasibility_for_CO2_Sequestration_in_Gundih_Gas_Field)
 * [Paper 2: Geomechanical Modelling](https://www.researchgate.net/publication/338644468_Geomechanical_Modelling_of_CO2_Sequestration_Process_in_Gundih_Field_for_Evaluation_of_Reservoir_Integrity)
