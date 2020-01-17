@@ -8,6 +8,10 @@ Notebooks are in the *main* folder:
 * 03_xu_payne.ipynb: Xu-Payne (2009) carbonate pore characterization 
 * geomechanics.m: geomechanical modelling, built in Matlab language. Will be re-written in Python language when having leisure time :)
 
+Folder *lib* includes all functions used in each of the notebooks.
+
+Folder *data* includes the input data.
+
 My BSc research had been published, see the extended abstracts in my ResearchGate here:
 * [Paper 1: Time-lapse Seismic Modelling](https://www.researchgate.net/publication/338644464_Time-lapse_Seismic_Modelling_as_Tool_for_Evaluation_of_Monitoring_Feasibility_for_CO2_Sequestration_in_Gundih_Gas_Field)
 * [Paper 2: Geomechanical Modelling](https://www.researchgate.net/publication/338644468_Geomechanical_Modelling_of_CO2_Sequestration_Process_in_Gundih_Field_for_Evaluation_of_Reservoir_Integrity)
