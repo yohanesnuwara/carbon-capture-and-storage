@@ -31,6 +31,9 @@ Folder *lib* includes all functions used in each of the notebooks.
 
 Folder *data* includes the input data.
 
+## Dependencies
+[CoolProp](https://github.com/CoolProp/CoolProp): CO<sub>2</sub> property calculation
+
 ## Read my papers
 
 My BSc research had been presented, see the extended abstracts in my ResearchGate here:
