@@ -31,8 +31,13 @@ Folder *lib* includes all functions used in each of the notebooks.
 
 Folder *data* includes the input data.
 
+## Next task and others in mind
+* Re-writing geomechanical modelling from MATLAB code to Python
+* Computational modelling of increasing porosity effect to **change of porosity and pore compressibility** 
+* Exploration of [PyFEHM](https://github.com/lanl/PyFEHMp), [PyTOUGH](https://github.com/acroucher/PyTOUGH), [Open Porous Media](https://github.com/OPM/opm-utilities)
+
 ## Dependencies
-[CoolProp](https://github.com/CoolProp/CoolProp): CO<sub>2</sub> property calculation
+[CoolProp](https://github.com/CoolProp/CoolProp): to calculate CO<sub>2</sub> property
 
 ## Read my papers
 
