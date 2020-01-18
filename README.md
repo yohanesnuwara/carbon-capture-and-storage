@@ -14,6 +14,7 @@ This is a complete modelling workflow that integrates reservoir simulation data,
 
 Case study is used from an Indonesian CCS pilot project in Gundih. Several key points of this CCS are:
 * Injection is done in carbonate reservoir,
+* CO2 is injected into 100% water-saturated zone,
 * Depth 3 km,
 * High temperature (158<sup>o</sup>C), high pressure (273 bar),
 * 10 years of injection,
