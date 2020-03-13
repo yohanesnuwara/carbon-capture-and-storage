@@ -6,7 +6,8 @@
 
 ## Velocity data
 
-[`2D_Vel_Xline_12680.sgy`](https://github.com/yohanesnuwara/ccs-gundih/blob/master/data/seismics/2D_Vel_Xline_12680.sgy) is the P-velocity model obtained from post-stack inversion of the above `2D_Xline_12680.sgy`
+* [`2D_Vel_Xline_12680.sgy`](https://github.com/yohanesnuwara/ccs-gundih/blob/master/data/seismics/2D_Vel_Xline_12680.sgy) is the P-velocity model obtained from post-stack inversion of the above `2D_Xline_12680.sgy`
+* [`EOR800tpd_velmodel_depth.sgy`](https://github.com/yohanesnuwara/ccs-gundih/blob/master/data/seismics/EOR800tpd_velmodel_depth.sgy) is the smooth velocity model for synthetic seismic modelling
 
 ## Synthetic Seismic Data
 
