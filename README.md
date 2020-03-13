@@ -1,4 +1,4 @@
-# Reservoir, Rock Physics, Time-lapse Seismic, & Geomechanical Modelling of Carbon Capture & Storage
+# Carbon Capture and Storage
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
